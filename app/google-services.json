@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766095812646",
+    "project_id": "fintechapp-d82c4",
+    "storage_bucket": "fintechapp-d82c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766095812646:android:4972d32ba9b47500311ee7",
+        "android_client_info": {
+          "package_name": "com.example.fintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766095812646-gmun6hrulnee5mbv3uvs6hm9skg3e1t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1l8KuTDeE-Zkx9ShUArK4N0a8bUEBjys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766095812646-gmun6hrulnee5mbv3uvs6hm9skg3e1t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fintech</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="country">Country</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="surname">Surname</string>
+</resources>
