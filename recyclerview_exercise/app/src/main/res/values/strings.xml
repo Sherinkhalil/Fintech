@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">recyclerview_exercise</string>
+    <string-array name="City_Places">
+        <item><font fgcolor="#FF0000">Restaurant</font></item>
+<!--        <item>Restaurant</item>-->
+        <item>Pub</item>
+        <item>Park</item>
+        <item>Bus</item>
+        <item>Hotel</item>
+        <item>Market</item>
+        <item>Radio</item>
+        <item>Castle</item>
+    </string-array>
+    <string-array name="ABOUT">
+        <item>The River Club brings an exciting new dimension to Corks thriving restaurant and bar.</item>
+        <item>We are a traditional Irish pub, famous for an atmosphere built on live music and dance</item>
+        <item>Fitzgerald Park or Fitzgerald Park is a public park in Cork city and the location of the Cork Public Museum</item>
+        <item>Cork City has an extensive bus network operated by Bus Éireann </item>
+        <item>This polished hotel dating back to 1813</item>
+        <item>Traders selling organic and locally produced food in an 18th-century covered market</item>
+        <item>96FM is one of three local radio stations licensed by the Broadcasting Commission of Ireland for Cork City and County in Ireland</item>
+        <item>Blarney Castle is a tower house, a type of fortification built by Gaelic lords and the Anglo-Irish between the 15th and 17th centuries.</item>
+    </string-array>
+
+<string-array name="Links">-->
+        <item>https://www.marketlane.ie/menu/lunch</item>
+        <item>https://goo.gl/maps/Jt15ywMsF3s7p5N7A</item>
+        <item>https://goo.gl/maps/Xfb2WUvFnNns5V8v7</item>
+        <item>https://goo.gl/maps/puys2WJvyCcbUtCRA</item>
+       <item>https://www.doylecollection.com/hotels/the-river-lee-hotel/rooms</item>
+        <item>https://www.youtube.com/watch?v=uexVdWg_ky0*t=8s</item>
+        <item>https://www.96fm.ie/player/</item>
+       <item>https://goo.gl/maps/3XcwYxQbEtizdj368</item>
+</string-array>
+
+<string-array name="Addresses">
+        <item name="restaurant_url"><a href="https://goo.gl/maps/Khfva1eo61ADcb1eA">Market Lane Location</a></item>
+        <item name="pubs_url"><a href="https://goo.gl/maps/Jt15ywMsF3s7p5N7A">Welcome to coughlans</a></item>
+        <item name="park_url"><a href="https://goo.gl/maps/Xfb2WUvFnNns5V8v7">Welcome to Fitzgerlands park</a></item>
+        <item name="bus_url"><a href="https://goo.gl/maps/puys2WJvyCcbUtCRA">Bus station</a></item>
+        <item name="hotel_url"><a href="https://goo.gl/maps/WfqP7ypMMXpoXaZc6">Check our rooms</a></item>
+        <item name="market_url"><a href="https://goo.gl/maps/ZZSmUufqA6iuttp38">Inside English-market</a></item>
+        <item name="radio_url"><a href="https://goo.gl/maps/gAFp3cf9g2UsMMsWA">listen to 96fm</a></item>
+        <item name="castle_url"><a href="https://goo.gl/maps/3XcwYxQbEtizdj368">Welcome to Blarney Castle</a></item>
+</string-array>
+
+
+
+
+
+
+
+
+    <string-array name="Visit">
+        <item name="https://goo.gl/maps/Khfva1eo61ADcb1eA"></item>
+        <item name="https://goo.gl/maps/Jt15ywMsF3s7p5N7A"></item>
+        <item name="https://goo.gl/maps/Xfb2WUvFnNns5V8v7"></item>
+        <item name= "https://goo.gl/maps/puys2WJvyCcbUtCRA"></item>
+        <item name= "https://goo.gl/maps/WfqP7ypMMXpoXaZc6"></item>
+        <item name="https://goo.gl/maps/ZZSmUufqA6iuttp38"></item>
+        <item name="https://goo.gl/maps/3XcwYxQbEtizdj368"></item>
+
+    </string-array>
+<!--    <string-array name="Links">-->
+<!--        <item value = "https://goo.gl/maps/Khfva1eo61ADcb1eA">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/Jt15ywMsF3s7p5N7A">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/Xfb2WUvFnNns5V8v7">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/puys2WJvyCcbUtCRA">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/WfqP7ypMMXpoXaZc6">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/ZZSmUufqA6iuttp38">somethingName</item>-->
+<!--        <item value = "https://goo.gl/maps/ZZSmUufqA6iuttp38">somethingName</item>-->
+<!--    </string-array>-->
+
+
+
+</resources>

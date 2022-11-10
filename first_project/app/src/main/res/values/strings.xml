@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">first_project</string>
+
+    <string-array name="Cork_City">
+        <item>Market Lane</item>
+        <item>Soho</item>
+        <item>fitzgerland Park</item>
+        <item>Bus Eireann</item>
+        <item>Fota Zoo</item>
+        <item>Cork 96fm</item>
+        <item>The English Market</item>
+        <item>Blarney Castle</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Swish, 2-floor restaurant and cocktail bar mixing European and Modern Irish flavours.</item>
+        <item>Chic cafe/bar and club with dining, conference facilities and rooftop bar, spread over 4 floors.</item>
+        <item>Fitzgeralds Park or Fitzgerald Park is a public park in Cork city and the location of the Cork Public Museum.</item>
+        <item>Cork City Bus Services (Bus Eireann) </item>
+        <item>Fota Wildlife Park is a 100-acre wildlife park located on Fota Island</item>
+        <item>96FM is one of three local radio stations licensed by the Broadcasting Commission of Ireland for Cork City and County in Ireland</item>
+        <item>Traders selling organic and locally produced food in an 18th-century covered market.</item>
+        <item>Blarney Castle is a medieval stronghold in Blarney, near Cork, Ireland. </item>
+    </string-array>
+</resources>
