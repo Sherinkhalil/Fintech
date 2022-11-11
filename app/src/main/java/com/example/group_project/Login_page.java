@@ -1,4 +1,4 @@
-package com.example.fintech;
+package com.example.group_project;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
+
+
 
 public class Login_page extends AppCompatActivity {
     Button login;
@@ -27,24 +28,14 @@ public class Login_page extends AppCompatActivity {
             public void onClick(View view) {
                 openaccount();
 
-
             }
         });
 
     }
-        public void openaccount() {
-
-//            String user = userName.getText().toString().trim();
-//            String pass = password.getText().toString().trim();
-//            if (user.equals("fintech") && pass.equals("fintech")) {
-//                Toast.makeText(this, "username and password matched!", Toast.LENGTH_LONG).show();
-//            } else {
-//                Toast.makeText(this, "username and password do not match!", Toast.LENGTH_LONG).show();
-                Intent intent = new Intent(this, account.class);
-                startActivity(intent);
-            }
 
 
-        }
-
-//}
+    public void openaccount() {
+        Intent intent = new Intent(this, account.class);
+        startActivity(intent);
+    }
+}

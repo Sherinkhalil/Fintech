@@ -1,4 +1,4 @@
-package com.example.fintech;
+package com.example.group_project;
 
 import androidx.appcompat.app.AppCompatActivity;
 

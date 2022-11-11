@@ -3,8 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".registration_confirm">
+    android:layout_height="match_parent">
 
     <TextView
         android:id="@+id/txtView_confirm"
@@ -21,7 +20,7 @@
         app:layout_constraintVertical_bias="0.367" />
 
     <Button
-        android:id="@+id/btnViewAccount"
+        android:id="@+id/btnViewAcc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#2896ED"
